@@ -1,7 +1,7 @@
 
 /*******************************************/
 /* Types of Seasonal Variation                                    */
-/*  Dr. Cathy W. S. Chen 5.7.2008                              */
+/* 碩一上 期末報告 數間序列分析 房價預測                         */
 /*******************************************/
 
 title 'Monthly Hotel Room Averages';
