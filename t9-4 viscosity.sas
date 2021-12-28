@@ -1,3 +1,5 @@
+/* 碩一上 期末報告 數間序列分析 房價預測 */
+
 DM"LOG;CLEAR;OUTPUT;CLEAR;";
 OPTION NODATE ps=55;
 DATA t94;
